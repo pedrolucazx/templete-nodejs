@@ -1,0 +1,16 @@
+{
+  "name": "templete-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedrolucazx/templete-nodejs.git",
+  "author": "pedrolucazx <pedrolucastrainee@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
+    "husky": "^8.0.1"
+  }
+}
